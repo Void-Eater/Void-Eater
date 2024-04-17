@@ -1,0 +1,3 @@
+-  Hello. I’m @Void-Eater
+-  I usually do white hat hacking and mess around with different programming languages in my spare time.
+-  I’m currently learning C, Java and C#.
